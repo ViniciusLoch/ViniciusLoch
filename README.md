@@ -8,6 +8,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Cy" height="50" width="40" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png">
    <img align="center" alt="Vini-JAVA" height="40" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Vini-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
