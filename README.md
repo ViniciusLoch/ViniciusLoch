@@ -1,6 +1,6 @@
 ## Olá! Eu sou Vinicius Loch
 
-### Atualmente estou no 4 período de sistemas para internet e estou buscando aprofundar meus conhecimentos em testes.
+### Atualmente estou no 4 período de sistemas para internet e estou buscando aprofundar meus conhecimentos Front-End.
 
 <div align="center">
   <a href="https://github.com/ViniciusLoch">
