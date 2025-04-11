@@ -1,6 +1,6 @@
 ## Olá! Eu sou Vinicius Loch
 
-### Atualmente estou no 4 período de sistemas para internet e estou buscando aprofundar meus conhecimentos Front-End.
+### Sou tecnologo em sistemas para internet e atualmente esotu cursando pos gradução em desenvolvimento full stack pela UNIESP.
 
 <div align="center">
   <a href="https://github.com/ViniciusLoch">
